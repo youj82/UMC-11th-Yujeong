@@ -1,0 +1,9 @@
+# Operating-system metadata
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# IDE-local files
+.idea/
+*.iml
+
